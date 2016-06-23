@@ -1,0 +1,6 @@
+{
+  "name": "Gi-learning",
+  "tagline": "GI-learning",
+  "body": "### GI-LEARNING LIBRARY\r\n\r\n`GI-LEARNING LIBRARY` is a C++ framework for [grammatical inference](https://en.wikipedia.org/wiki/Grammar_induction).\r\n\r\nGrammar induction algorithms:\r\n- RPNI\r\n- EDSM\r\n- Blue*\r\n- L*\r\n\r\nEasy configuration instructions:\r\n```\r\n1. Go inside the project folder \"GI-learning\"\r\n\r\n2. make distclean\r\n   autoreconf -i\r\n   ./configure\r\n   make\r\n   cd src/\r\n   ./giLearning ../examples/examples_big.txt ../examples/lstar.txt\r\n```\r\n\r\nIf you obtain some error from the \"configure\" command, you must resolve it installing the necessary libraries or tools.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
