@@ -1,15 +1,23 @@
-Sample readme file for GI-learning project.
+# GI-LEARNING LIBRARY
 
-Go inside the project folder "GI-learning"
+`GI-LEARNING LIBRARY` is a C++ framework for [grammatical inference](https://en.wikipedia.org/wiki/Grammar_induction).
 
-make distclean
-autoreconf -i
-./configure
-make
-cd src/
-./giLearning ../examples/examples_big.txt ../examples/lstar.txt
+Grammar induction algorithms:
+- RPNI
+- EDSM
+- Blue*
+- L*
 
-If you obtain some error from the "configure" command, resolve it installing the necessary libraries or tools.
+Easy configuration instructions:
+```
+1. Go inside the project folder "GI-learning"
 
+2. make distclean
+   autoreconf -i
+   ./configure
+   make
+   cd src/
+   ./giLearning ../examples/examples_big.txt ../examples/lstar.txt
+```
 
-http://mcuoneclipse.com/2012/06/25/5-best-eclipse-plugins-1-eclox-with-doxygen-graphviz-and-mscgen/
+If you obtain some error from the "configure" command, you must resolve it installing the necessary libraries or tools.
