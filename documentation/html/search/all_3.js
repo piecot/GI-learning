@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['db',['db',['../edsm_8cpp.html#a91fd53b963418a4ecba64ba69e6a2577',1,'edsm.cpp']]],
+  ['delta',['delta',['../classgi_1_1blueStar.html#aed1ead7c264e1ee16c6eb72b43bc8f02',1,'gi::blueStar']]],
+  ['dfa',['dfa',['../classgi_1_1dfa.html#af6cb6999144edd9b0317c14432747d74',1,'gi::dfa::dfa()'],['../classgi_1_1dfa.html#aa8005d5dac3315db8ee60596735b5e79',1,'gi::dfa::dfa(const int n_state, const int dim_alf, const string *alf)'],['../classgi_1_1dfa.html#a921b08fbefcc0ed71f948268257302c2',1,'gi::dfa::dfa(const int n_state, const int dim_alf, const string *alf, const int s_state)'],['../classgi_1_1dfa.html#a3117d7e18517bd6cd7e5f5dccb884139',1,'gi::dfa::dfa(const int n_state, const int dim_alf, const string *alf, const int s_state, const int **tt_copy)'],['../classgi_1_1dfa.html#aeed1cd8cd9e7e53af9f3cce739b01b31',1,'gi::dfa::dfa(const dfa &amp;d1)']]],
+  ['dfa',['dfa',['../classgi_1_1dfa.html',1,'gi']]],
+  ['dfa_2ecpp',['dfa.cpp',['../dfa_8cpp.html',1,'']]],
+  ['dfa_2eh',['dfa.h',['../dfa_8h.html',1,'']]],
+  ['dfa_5fstate_5faccepting',['DFA_STATE_ACCEPTING',['../dfa_8h.html#aa48d137da7d9077844d6563772735a18',1,'dfa.h']]],
+  ['dfa_5fstate_5fnon_5faccepting',['DFA_STATE_NON_ACCEPTING',['../dfa_8h.html#a3cb863481f544d73375698f4b1a21b30',1,'dfa.h']]],
+  ['dfa_5fstate_5frejecting',['DFA_STATE_REJECTING',['../dfa_8h.html#aca427026422a71924b921835aabb9dc1',1,'dfa.h']]],
+  ['dfa_5fstate_5funreachable',['DFA_STATE_UNREACHABLE',['../dfa_8h.html#a82d3d053fe9e1077408caf1b79d24e1e',1,'dfa.h']]],
+  ['dfa_5ftf_5fstate_5fn',['DFA_TF_STATE_N',['../dfa_8cpp.html#afdf0062e7c3d4735ec8258e35c70b252',1,'dfa.cpp']]],
+  ['dfa_5ftf_5fstate_5fx',['DFA_TF_STATE_X',['../dfa_8cpp.html#ab6e656825255f3a1ec9d04571d4c9395',1,'dfa.cpp']]],
+  ['dfaedsm',['dfaEDSM',['../classgi_1_1dfaEDSM.html',1,'gi']]],
+  ['dfaedsm',['dfaEDSM',['../classgi_1_1dfaEDSM.html#ad9f584132e7a11cd59c60e6140fc9b13',1,'gi::dfaEDSM::dfaEDSM()'],['../classgi_1_1dfaEDSM.html#a94c4ad8b6d300e8268c2843e24066c57',1,'gi::dfaEDSM::dfaEDSM(const dfa &amp;d1)'],['../classgi_1_1dfaEDSM.html#a847fb8539fae5bbe031ef823240ee3a6',1,'gi::dfaEDSM::dfaEDSM(const dfaEDSM &amp;d1)'],['../classgi_1_1dfaEDSM.html#a296e0957d18c3d4b3d742cbbca67dd87',1,'gi::dfaEDSM::dfaEDSM(const int n_state, const int dim_alf, const string *alf)'],['../classgi_1_1dfaEDSM.html#a9026a0adb0a2e0160f2792031acafd13',1,'gi::dfaEDSM::dfaEDSM(const int n_state, const int dim_alf, const string *alf, const int s_state)']]],
+  ['dfaedsm_2ecpp',['dfaEDSM.cpp',['../dfaEDSM_8cpp.html',1,'']]],
+  ['dfaedsm_2eh',['dfaEDSM.h',['../dfaEDSM_8h.html',1,'']]],
+  ['dim_5falfabeto',['dim_alfabeto',['../classgi_1_1lstar.html#ab24af634781d7cfa1fe0a518f59ee122',1,'gi::lstar']]],
+  ['dim_5falphabet',['dim_alphabet',['../classgi_1_1bluefringe.html#ae4c9adb750cbf76d9fd8853be619b6ab',1,'gi::bluefringe::dim_alphabet()'],['../classgi_1_1dfa.html#a32e1aafdf5b78d8eb26df2316fbc5ca3',1,'gi::dfa::dim_alphabet()']]],
+  ['dmax',['DMAX',['../utilities_8h.html#af1afee9556b3ca858092d58c729a0649',1,'utilities.h']]],
+  ['dminf',['DMINF',['../utilities_8h.html#aaa97521851006fdf1e791e736688ac6d',1,'utilities.h']]],
+  ['dot_5fdir',['DOT_DIR',['../GI-learning_8cpp.html#a3ce3384cb551a94c0748c1cd94893194',1,'GI-learning.cpp']]],
+  ['dot_5ffile_5fbluestar',['DOT_FILE_BLUESTAR',['../GI-learning_8cpp.html#a10f071487485792944dffde8d73da361',1,'GI-learning.cpp']]],
+  ['dot_5ffile_5fedsm',['DOT_FILE_EDSM',['../GI-learning_8cpp.html#a45d78f930a36f00db625b15ed80cf9d0',1,'GI-learning.cpp']]],
+  ['dot_5ffile_5flstar',['DOT_FILE_LSTAR',['../GI-learning_8cpp.html#af423920d2891aa87bb07f650ac93bf2e',1,'GI-learning.cpp']]],
+  ['dot_5ffile_5frpni',['DOT_FILE_RPNI',['../GI-learning_8cpp.html#a80254bf8bebd6efec4f20a5de81fdfd5',1,'GI-learning.cpp']]]
+];

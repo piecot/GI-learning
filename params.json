@@ -1,6 +1,0 @@
-{
-  "name": "GI-learning",
-  "tagline": "Feed in data, get models!",
-  "body": "### GI-LEARNING LIBRARY\r\n\r\n`GI-LEARNING LIBRARY` is a C++ framework for [grammatical inference](https://en.wikipedia.org/wiki/Grammar_induction).\r\n\r\nGrammar induction algorithms:\r\n- RPNI\r\n- EDSM\r\n- Blue*\r\n- L*\r\n\r\nEnjoy!\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
